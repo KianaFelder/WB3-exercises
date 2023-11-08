@@ -11,7 +11,7 @@ function getFirstName(fullName){
 }
 
 function getLastName(fullName){
-    let 
+    let spaceBetweenName = 
 }
 
-console.log(firstName)
+console.log(fullName)
